@@ -1,7 +1,7 @@
 # Web3 Infrastructure & Tooling
 
-This repository contains blockchain-related tooling, notes, and early-stage implementations
-across EVM and Solana ecosystems.
+This repository contains blockchain-related tooling, notes,
+and experiments across EVM and Solana ecosystems.
 
 ## Focus Areas
 - Smart contract architecture (EVM)
@@ -18,4 +18,4 @@ across EVM and Solana ecosystems.
 - Termux (Android-based dev environment)
 
 ## Status
-Active development. Components are added incrementally as experiments mature.
+Active development. Components are added incrementally as explored.
